@@ -1,5 +1,7 @@
-# Brain Tumor Segmentation using U-Net
+## Detailed Report
 
-Medical image segmentation using several U-Net architectures with different pretrained encoders.
+This repository provides a brief overview of the project.
 
-More details coming soon.
+For a complete description of the methodology, preprocessing, training configuration, experiments, architectural modifications, results, discussion, and conclusions, please refer to:
+
+📄 **Project_Report.md**
